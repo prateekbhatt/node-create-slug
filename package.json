@@ -1,0 +1,22 @@
+{
+  "name": "node-slugs",
+  "version": "0.0.1",
+  "description": "Generates a slug from a string input",
+  "homepage": "https://github.com/prateekbhatt/node-slugs",
+  "author": {
+    "name": "Prateek Bhatt",
+    "email": "prattbhatt@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/prateekbhatt/node-slugs.git"
+  },
+  "private": false,
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}

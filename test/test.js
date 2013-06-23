@@ -1,5 +1,5 @@
 var assert = require("assert")
-  , slugs = require("../lib/slugs.js");
+  , slugs = require("../");
 
 describe('node-slugs', function(){
 

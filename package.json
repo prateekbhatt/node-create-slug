@@ -20,7 +20,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "should": "~1.2.2"
   },
   "readmeFilename": "README.md"
 }
